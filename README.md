@@ -10,4 +10,7 @@
     5° Menu aberto para Desktop, ícone fechado para dispositivo mobile
     6° Botão de rolagem para o topo da página (setinha)
                       etc..
+
+    Segue link para visualização do WebSite BeautySalon:
+    https://alinebuchino.github.io/beautySalon/
 -->
